@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="light_primary">#6B9B37</color>
+    <color name="light_onPrimary">#FFFFFF</color>
+
+    <!-- Primary Container: Более светлый зелёный (фоны кнопок, chips) -->
+    <color name="light_primaryContainer">#D4E8C3</color>
+    <color name="light_onPrimaryContainer">#1B5E20</color>
+
+    <!-- Secondary: Теплый оранжевый для акцентов (иконки, badges) -->
+    <color name="light_secondary">#E67E22</color>
+    <color name="light_onSecondary">#FFFFFF</color>
+
+    <!-- Secondary Container: Светлый персиковый (highlighted cards) -->
+    <color name="light_secondaryContainer">#FFE5D0</color>
+    <color name="light_onSecondaryContainer">#8B4513</color>
+
+    <!-- Tertiary: Коричневый землистый (дополнительные акценты) -->
+    <color name="light_tertiary">#8D6E63</color>
+    <color name="light_onTertiary">#FFFFFF</color>
+
+    <!-- Background: Очень мягкий бежево-зелёный (главный фон) -->
+    <color name="light_background">#F5F9F0</color>
+    <color name="light_onBackground">#1C1B1F</color>
+
+    <!-- Surface: Белый с лёгким тёплым оттенком (карточки, toolbar) -->
+    <color name="light_surface">#FEFEFE</color>
+    <color name="light_onSurface">#1C1B1F</color>
+
+    <!-- Surface Variant: Очень светлый серо-зелёный (input fields, dividers) -->
+    <color name="light_surfaceVariant">#E8EFE3</color>
+    <color name="light_onSurfaceVariant">#43483F</color>
+
+    <!-- Outline: Границы, разделители -->
+    <color name="light_outline">#C4C7C0</color>
+    <color name="light_outlineVariant">#E0E3DC</color>
+
+    <!-- Error colors -->
+    <color name="light_error">#BA1A1A</color>
+    <color name="light_onError">#FFFFFF</color>
+    <color name="light_errorContainer">#FFDAD6</color>
+    <color name="light_onErrorContainer">#410002</color>
+
+    <!-- Primary: Яркий зелёный для тёмной темы (контрастный акцент) -->
+    <color name="dark_primary">#8BC34A</color>
+    <color name="dark_onPrimary">#1B3A0F</color>
+
+    <!-- Primary Container: Приглушённый зелёный (фоны кнопок в dark) -->
+    <color name="dark_primaryContainer">#2D5016</color>
+    <color name="dark_onPrimaryContainer">#B8E28A</color>
+
+    <!-- Secondary: Тёплый оранжевый (акценты, иконки в dark) -->
+    <color name="dark_secondary">#FFB74D</color>
+    <color name="dark_onSecondary">#4A2800</color>
+
+    <!-- Secondary Container: Тёмный коричнево-оранжевый -->
+    <color name="dark_secondaryContainer">#6D3F00</color>
+    <color name="dark_onSecondaryContainer">#FFD9B5</color>
+
+    <!-- Tertiary: Светло-коричневый для тёмной темы -->
+    <color name="dark_tertiary">#BCAAA4</color>
+    <color name="dark_onTertiary">#3E2723</color>
+
+    <!-- Background: Очень тёмный серый (главный фон dark theme) -->
+    <color name="dark_background">#121212</color>
+    <color name="dark_onBackground">#E6E1E5</color>
+
+    <!-- Surface: Тёмно-серый с тёплым оттенком (карточки, toolbar) -->
+    <color name="dark_surface">#1E1E1E</color>
+    <color name="dark_onSurface">#E6E1E5</color>
+
+    <!-- Surface Variant: Более светлый тёмно-серый (elevated cards) -->
+    <color name="dark_surfaceVariant">#2B2B2B</color>
+    <color name="dark_onSurfaceVariant">#C7C6C0</color>
+
+    <!-- Outline: Границы в тёмной теме -->
+    <color name="dark_outline">#3F3F3F</color>
+    <color name="dark_outlineVariant">#2A2A2A</color>
+
+    <!-- Error colors -->
+    <color name="dark_error">#FFB4AB</color>
+    <color name="dark_onError">#690005</color>
+    <color name="dark_errorContainer">#93000A</color>
+    <color name="dark_onErrorContainer">#FFDAD6</color>
+</resources>
